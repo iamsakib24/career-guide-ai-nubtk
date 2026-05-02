@@ -1,73 +1,69 @@
-# Welcome to your Lovable project
+AI Career Guide Chatbot Project Proposal
 
-## Project info
+Project Title: AI Career Guide Chatbot for 
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Prepared By: MD Sakib Al Hasan
 
-## How can I edit this code?
+Project Overview:
 
-There are several ways of editing your application.
+This project aims to develop an AI-powered Career Guide Chatbot to help SSC and HSC students choose the right career path. The chatbot will provide personalized career suggestions based on education level, interests, and skills. It will support guidance for CSE, BBA, Diploma, and other academic and skill-based career paths.
 
-**Use Lovable**
+Objectives:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Help students decide what to study after SSC and HSC
+Suggest career paths based on user skills and interests
+Use AI (Gemini API) to generate intelligent responses
+Make the system easy to use and scalable
 
-Changes made via Lovable will be committed automatically to this repo.
+Project Scope:
 
-**Use your preferred IDE**
+Career guidance for SSC and HSC students
+Suggestions for CSE, BBA, Diploma, and skill-based careers
+AI-powered chatbot using Gemini API
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Technologies to be Used:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Frontend: HTML, CSS
+Backend: PHP / Node.js 
+AI API: Google Gemini API/others
+Hosting: Localhost / Web Hosting
 
-Follow these steps:
+Project Timeline and Weekly Plan:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Week 1: System Structure & Planning
+Design overall system architecture
+Plan UI layout and chatbot interface
+Finalize career categories and logic
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Week 2: API account and others
+Create Gemini API account and get API key
 
-# Step 3: Install the necessary dependencies.
-npm i
+Week 3: Gemini API Integration
+Connect Gemini API with backend
+Train prompt structure for career guidance
+Test AI responses
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Week 4: Full System Integration & Deployment
+Connect frontend with backend and AI system
+Final testing and bug fixing
+Optimize chatbot responses
+Deploy project for real users
+Prepare final documentation and presentation
 
-**Edit a file directly in GitHub**
+Expected Outcomes:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Fully AI Career Guide Chatbot
+Accurate career suggestions for students
+Easy-to-use interface
+AI-powered personalized guidance
 
-**Use GitHub Codespaces**
+Future Enhancements:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Add voice-based chatbot
+Add Bengali language support
+User login and profile system
+Analytics for user career trends
 
-## What technologies are used for this project?
+Conclusion:
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+This project will help SSC and HSC students make better career decisions using AI technology. It will combine structured career data with intelligent AI responses to create a smart and helpful career guidance system
