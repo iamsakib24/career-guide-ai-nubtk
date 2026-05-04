@@ -1,6 +1,6 @@
 AI Career Guide Chatbot Project Proposal
 
-Project Title: AI Career Guide Chatbot for 
+Project Title: AI Career Guide Chatbot
 
 Prepared By: MD Sakib Al Hasan & Kazi abdur rouf
 
